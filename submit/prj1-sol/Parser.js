@@ -75,7 +75,10 @@ class Parser {
         } catch (e) {
             console.log(e);
             process.exit(1);
+<<<<<<< HEAD
             exit;
+=======
+>>>>>>> prj2
         }
     }
 }
